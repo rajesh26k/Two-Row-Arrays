@@ -38,7 +38,7 @@ This project was created as a self-driven exploration in recursive mathematical 
 ---
 
 ## Files
-- Arraymaker.java - Core logic for reading rows, performing transformations, and displaying steps.
+- ArrayMaker.java - Core logic for reading rows, performing transformations, and displaying steps.
 - Two_Row_Array.ipynb - A Colab-friendly interface for entering arrays and controlling iterations
 - LICENSE - MIT
 - README.md - This file
